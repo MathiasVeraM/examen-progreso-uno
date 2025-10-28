@@ -406,20 +406,12 @@ body{
 
 @media (max-width: 600px) {
 
-    .header__navbar{
-        display: none;
-    }
-
     .header__navbar__form {
         flex-direction: column;
         gap: 5px;
     }
 
     .header__navbar__formInput {
-        width: 100%;
-    }
-
-    .header__navbar__formButton {
         width: 100%;
     }
 
